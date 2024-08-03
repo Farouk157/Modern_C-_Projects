@@ -1,0 +1,35 @@
+Problem: Library Management System
+Design a Library Management System using Object-Oriented Programming concepts in C++.
+The system should be able to handle books, users, and borrowing of books.
+
+Requirements:
+
+Book Class:
+
+Attributes: title, author, ISBN, genre, availability.
+Methods: Constructor, getter/setter methods.
+
+User Class:
+
+Attributes: name, id, books_borrowed.
+Methods: Constructor, getter/setter methods, methods to borrow/return books.
+
+Library Class:
+
+Attributes: Collection of Book objects, collection of User objects.
+Methods:
+Add a new book to the library.
+Remove a book from the library.
+Register a new user.
+Remove a user from the library.
+Display all books.
+Display all users.
+Allow a user to borrow a book (if available).
+Allow a user to return a book.
+Search for a book by title, author, or genre.
+Constraints:
+
+A book can be borrowed by only one user at a time.
+Implement proper error handling (e.g., book not found, user not found, book already borrowed).
+Ensure that the library system manages memory efficiently (use smart pointers where appropriate).
+Consider advanced OOP concepts such as inheritance, polymorphism, and encapsulation

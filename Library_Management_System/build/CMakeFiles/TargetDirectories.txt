@@ -1,0 +1,3 @@
+/home/farouk/Library_Management_System/build/CMakeFiles/my_library.dir
+/home/farouk/Library_Management_System/build/CMakeFiles/edit_cache.dir
+/home/farouk/Library_Management_System/build/CMakeFiles/rebuild_cache.dir
